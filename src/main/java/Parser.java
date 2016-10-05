@@ -8,9 +8,7 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.sql.*;
 
-/**
- * Created by HappyFamily on 13.09.2016.
- */
+
 public class Parser {
     public static void main(String[] args) throws IOException {
         //JDBC connection to Database
